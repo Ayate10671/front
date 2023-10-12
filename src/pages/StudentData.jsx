@@ -1,6 +1,7 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import Navbar from '../components/Navebar'
-import logoImg from "../assets/logo-removebg-preview.png";
+
 
 const StudentData = () => {
     return (
