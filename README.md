@@ -78,3 +78,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 //         onClick={() => setAuthState('register')}
 //         className='ml-2 font-medium text-base text-violet-500'>Sign up</button>
 // </div> -->
+
+
+
+
+
+********************************************************************************************************
+
+<!-- navebar -->
+
+
+
+
+<!-- 
+// {
+//    eslint-disable jsx-a11y/anchor-is-valid 
+// }
+
